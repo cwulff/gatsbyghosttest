@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://cwulff.pagekite.me/",
+    "apiUrl": "http://cwulff.pagekite.me",
     "contentApiKey": "284e04949656422b43ba52248e"
   },
   "production": {
-    "apiUrl": "http://cwulff.pagekite.me/",
+    "apiUrl": "http://cwulff.pagekite.me",
     "contentApiKey": "284e04949656422b43ba52248e"
   }
 }
